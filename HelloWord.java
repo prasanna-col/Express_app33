@@ -1,6 +1,6 @@
 class HelloWord {
     public static void main(String[] args) {
-        System.out.println("HaHa -- Hello world");
+        System.out.println("HaHa -- Hello world - Test in jenkins for poll scm");
     }
 }
 
